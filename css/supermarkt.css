@@ -1,0 +1,41 @@
+body {
+    background-color: #B3c7f7;
+    margin: 0;
+    font-family: Tahoma sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.input-container {
+    position: relative;
+    display: inline-block;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 85vh;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); !* Voeg een subtiele schaduw toe voor diepte *!*/
+}
+
+#supermarkt_search {
+    width: 200px;
+    border: none;
+    outline: none;
+}
+
+button {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+
+button i {
+    color: #888;
+}
+
+/*hover search icon andere kleur
+/*button:hover i {*/
+/*    color: #333; */
+/*}*/
