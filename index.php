@@ -12,6 +12,39 @@
     <h1> Welkom </h1>
 </header>
 <body>
-
+<section class = "page-boxes">
+    <section class = "box-text">
+        <div class = "page-box">
+            <img src="images/homepage/review.png">
+        </div>
+        <h2>Review</h2>
+    </section>
+    <section class = "box-text">
+        <div class = "page-box">
+            <img src="images/homepage/supermarket.png">
+        </div>
+        <h2>Supermarkten</h2>
+    </section> <section class = "box-text">
+        <div class = "page-box">
+            <img src="images/homepage/favorite.png">
+        </div>
+        <h2>Favorieten</h2>
+    </section> <section class = "box-text">
+        <div class = "page-box">
+            <img src="images/homepage/recent.png">
+        </div>
+        <h2>Recent</h2>
+    </section> <section class = "box-text">
+        <div class = "page-box">
+            <img src="images/homepage/settings.png">
+        </div>
+        <h2>Instellingen</h2>
+    </section> <section class = "box-text">
+        <div class = "page-box">
+            <img src="images/homepage/profile.png">
+        </div>
+        <h2>Profiel</h2>
+    </section>
+</section>
 </body>
 </html>
